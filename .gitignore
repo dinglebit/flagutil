@@ -58,3 +58,4 @@ _testmain.go
 *.test
 *.prof
 
+coverage.out
